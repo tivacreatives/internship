@@ -10,5 +10,4 @@ Getting started at Tiva Creatives
 - Module 5: Virtual Assistant Toolkit
 - Module 6: A Day in the Life of a Virtual Assistant
 
-## Pick a Pack Training
-![Social Media Package](https://github.com/tivacreatives/internship/blob/master/va-tasks-tivacreatives-social-media.png)
+
