@@ -10,4 +10,21 @@ Getting started at Tiva Creatives
 - Email Marketing
 
 
+### Learn How to offer Web-Developement and Mobile-Developement Services in the following
+
+#### Web-Starter
+-	HTML/CSS 
+-	UI/UX 
+-	JavaScript
+-	GitHub
+-	React
+
+#### Mobile-Starter
+-	React Native
+
+#### Server-Side Starter
+-	Node.js
+-	Python 
+
+
 
